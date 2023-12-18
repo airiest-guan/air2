@@ -1,2 +1,2 @@
 # air2
-hexagon
+hexagon regular
